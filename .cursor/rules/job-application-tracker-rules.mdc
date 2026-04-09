@@ -1,0 +1,20 @@
+---
+alwaysApply: true
+---
+
+# Stack
+- Java 21, Spring Boot, Spring MVC, Spring Data JPA
+- Thymeleaf, Bootstrap 5
+- PostgreSQL
+- Maven
+- JUnit 5,  Mockito, AssertJ
+
+
+# Conventions
+- Component classes with constructor injection and not Autowired on fields
+- switch
+
+
+# Do NOT
+- Add new dependencies without asking
+- don't use switch statements, instead use appropriate if else variations
